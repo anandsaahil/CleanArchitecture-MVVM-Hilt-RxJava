@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="string_dashboard">Dashboard</string>
+    <string name="string_film_title">Films</string>
+    <string name="string_no_results">No results found</string>
+    <string name="string_total_results">%1$d Results</string>
+    <string name="string_gender_male">male</string>
+    <string name="string_not_applicable">female</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="default_frame_margin">24dp</dimen>
+    <dimen name="item_frame_margin">2dp</dimen>
+    <dimen name="recyclerview_item_padding">3dp</dimen>
+    <dimen name="arrow_margin">5dp</dimen>
+    <dimen name="card_shadow">8dp</dimen>
+    <dimen name="item_padding">15dp</dimen>
+    <dimen name="indicator_height">12dp</dimen>
+    <dimen name="title_left_margin">35dp</dimen>
+    <dimen name="recycler_margin">20dp</dimen>
+    <dimen name="item_margin">8dp</dimen>
+    <dimen name="search_box_height">45dp</dimen>
+    <dimen name="layout_item_spacing">30dp</dimen>
+    <dimen name="shimmer_item_width">100dp</dimen>
+    <dimen name="shimmer_child_width">70dp</dimen>
+</resources>
